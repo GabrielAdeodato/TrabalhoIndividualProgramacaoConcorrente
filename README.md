@@ -16,13 +16,6 @@ Programa cria um sistema bancário, onde 2 lojas recebem pagamentos de 10 client
 
 <hr>
 
-
-
-
-### Como utilizar
-
- Para utilizar o projeto, siga os passos abaixo:
-
 ### PROJETO REALIZADO EM:
 
  Java 17
